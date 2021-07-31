@@ -1,2 +1,0 @@
-FROM vamsip11/webserver
-ADD ./var/www/html
